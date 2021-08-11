@@ -7,3 +7,7 @@ Specifically, the Gradient CSS Instruction works just fine in Safari and Chrome,
 
 I have spent hours on this thing, with my last idea being to create a class called "BodyGradient" and add it directly to the Body html tags... which didn't work.
 I really want to figure out why this CSS gradient issue is even an issue before I continue.
+
+Things To Do:
+ - Finish The Design with the proper color scheme
+ - Make The Html Semantic Friendly
